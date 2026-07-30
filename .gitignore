@@ -1,0 +1,14 @@
+# 音视频文件不入库（体积大、不适合 git 管理）
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
