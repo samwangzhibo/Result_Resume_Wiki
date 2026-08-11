@@ -12,3 +12,6 @@
 *.m4a
 *.aac
 *.ogg
+
+# AI 生成素材/中间产物（不入库）
+WorkBuddyRaw/
